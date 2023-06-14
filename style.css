@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+}
+.backtop{
+    background-color: yellow;
+    height: 150px;
+    margin-top: 0%;
+}
+
+img{
+    border-radius: 60%;
+    margin-top: 40px;
+    margin-left: 80px;
+    display: inline;
+}
+.heading{
+    display: inline;
+    margin-bottom: 100px;
+    color: brown;
+}
+.about{
+    
+    border-bottom: solid brown 3px;
+    display: inline;
+
+}
+main{
+    margin-top:100px;
+}
+.pop{
+    margin-left: 50px;
+}
+.hco{
+    border-bottom: solid brown 3px ;
+    display: inline;
+}
+.coh{
+    border-bottom: solid brown 3px ;
+    display: inline;
+    margin-top: 40px;
+}
+.pjo{
+    border-bottom: solid brown 3px ;
+    display: inline;
+}
+.indiv
+{
+    margin-left: 50px;
+}
